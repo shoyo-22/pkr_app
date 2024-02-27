@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PKR</string>
+    <string name="title_activity_main">PKR</string>
+    <string name="package_name">com.pkr.app</string>
+    <string name="custom_url_scheme">com.pkr.app</string>
+</resources>
