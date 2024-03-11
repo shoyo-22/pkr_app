@@ -1,4 +1,4 @@
 <template>
-  <main>PKR APP</main>
+  <main>PKR APP Қосымшасы</main>
   <Button label="Submit" />
 </template>
